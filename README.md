@@ -19,4 +19,4 @@ Information Security student with hands-on experience in:
 ## Portfolio Includes
 - TryHackMe write-ups
 - Vulnerability assessment reports
-- security notes
+- Security notes
